@@ -1,0 +1,1 @@
+print("Hello Laurent, ceci est ton bac à sable Python !")

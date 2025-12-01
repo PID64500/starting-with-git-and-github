@@ -1,0 +1,107 @@
+# ───────────────────────────────────────────────
+#  🐍  PYTHON – VERSION PRO
+# ───────────────────────────────────────────────
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tools/Package managers
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+poetry.toml
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+unittest.xml
+
+# Django / Flask / FastAPI logs & files
+*.log
+db.sqlite3
+
+# IDE / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MyPy / Ruff / linting
+.mypy_cache/
+.dmypy.json
+ruff_cache/
+
+# Local settings / secrets
+.env
+.env.*
+*.local
+*.secret
+secrets.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ───────────────────────────────────────────────
+#  🚀  GIT – GENERAL BEST PRACTICES
+# ───────────────────────────────────────────────
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Python profiling
+*.pstats
+profile/
+
+# Editor backups
+*~
+*.swp
+*.tmp
